@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Tableau**
 - 👨‍💻 All of my projects are available at [https://github.com/VijayV2003](https://github.com/VijayV2003)
-- 📫 How to reach me **vijayvelu2003@gmail.com**
+- 📫 Feel free to reach me @ **vijayvelu2003@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
